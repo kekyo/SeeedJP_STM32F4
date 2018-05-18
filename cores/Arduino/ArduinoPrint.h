@@ -2,6 +2,9 @@
 
 #include <stddef.h>
 #include <stdint.h>
+#include <string>
+
+typedef std::string String;
 
 #define BIN	(2)
 #define OCT (8)
